@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>User</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-26 21:55:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5bd975bd0fa03200cd674f8ce1050e7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-26 21:55:52</sys_updated_on>
+        <title>User</title>
+        <user/>
+    </sys_ui_view>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3670e138db8617004c1ff70fbf961904</instance_id>
+        <instance_name>dev58950</instance_name>
+        <name>sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>User</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-26 21:55:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5bd975bd0fa03200cd674f8ce1050e7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-26 21:55:52</sys_updated_on>
+        <title>User</title>
+        <user/>
+    </sys_ui_view>
+</record_update>]]></payload>
+        <payload_hash>248815926</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-28 18:01:43</sys_created_on>
+        <sys_id>7c5cdabadb22001012a685184b9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fed50f5840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-28 18:01:43</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>3c5cdaba912200104321570ec59b8ee3</update_guid>
+        <update_guid_history>a93992b6ce2200109e1eb01128c76956:-749762703,f9b85126e5e200107bac191e28e9f4e9:-1898123732,5e48d1a26ae20010f5fa17f43fd1ead8:917159020,7dd79522e7e20010ef25bd199854b935:-1570908289,b545192ea8a20010bd7098e2b6b037fd:917159020,695f038ef9ae40102a42930b2a5effee:917159020,d01f7acab76e40100f384d1573552060:248815926</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 22:32:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>0a5c229b90cc4000809470a100000000</sys_id>
+        <sys_metadata>5bd975bd0fa03200cd674f8ce1050e7f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f">7c5cdabadb22001012a685184b9619e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 22:32:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
